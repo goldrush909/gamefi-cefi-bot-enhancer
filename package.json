@@ -1,0 +1,38 @@
+{
+  "name": "gamefi-cefi-bot-enhancer",
+  "version": "1.0.0",
+  "description": "Enhance bot capabilities with advanced features, maximizing trading efficiency.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goldrush909/gamefi-cefi-bot-enhancer"
+  },
+  "author": "goldrush909",
+  "license": "MIT",
+  "dependencies": {
+    "gamefi-cefi-bot-deployer": "1.0.0",
+    "gamefi-cefi-bot-enhancer": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "ethers": "1.0.0",
+    "solc": "1.0.0",
+    "validator": "1.0.0",
+    "helmet": "1.0.0",
+    "web3-react": "1.0.0",
+    "sinon": "1.0.0",
+    "nodemon": "1.0.0",
+    "axios": "1.0.0",
+    "mocha": "1.0.0",
+    "dotenv": "1.0.0",
+    "web3": "1.0.0",
+    "sequelize": "1.0.0",
+    "multer": "1.0.0",
+    "mongoose": "1.0.0",
+    "babel-core": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "web3-utils": "1.0.0",
+    "cors": "1.0.0"
+  }
+}
